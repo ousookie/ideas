@@ -1,7 +1,7 @@
-# Tutorial Ideas  
+# Tutorial Ideas
 
 - [x] Java Core
 - [ ] Spring Boot
-- [x] Hibernate 
+- [x] Hibernate
 - [ ] Lombok
 - [x] Kafka
