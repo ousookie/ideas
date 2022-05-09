@@ -5,3 +5,4 @@
 - [x] Hibernate
 - [ ] Lombok
 - [x] Kafka
+- [ ] Blockchains with BASIC
