@@ -5,3 +5,4 @@
 - [x] Hibernate
 - [ ] Lombok
 - [x] Kafka
+- [ ] Debugging with the Grace Hopper Method
